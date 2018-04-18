@@ -3,7 +3,7 @@
 
 // some settings that you can change with the app are saved in a small SPIFFS file
 //
-// Tools - Erase Falsh - Only Sketch     -> so it won't erase files in SPIFFS
+// Tools - Erase Flash - Only Sketch     -> so it won't erase files in SPIFFS
 //
 // Tools - Flash Size - 1M(512K SPIFFS)   -> this worked in my wemos D1 mini lite and my nodeMCU. any value > 0 for SPIFFS should be ok
 
