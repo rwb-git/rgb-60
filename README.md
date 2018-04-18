@@ -1,7 +1,7 @@
 # rgb-60
 arduino IDE code for ESP8266, wemos D1 mini lite
 
-(Android app RGB60 has not been published in the playstore as of this minute, but it will soon be available, free and without ads.)
+(Android app RGB60 has been published and should be in the playstore, free and without ads.)
 
 This code is for use with Android app RGB60, but does not require that app. You can add your wifi SSID and password to the top of avrdude_cmdline and connect 60 RGB LEDs WS8212b type to the appropriate data pin, and your ESP8266 should immediately fetch a small design file from my web server and display it on your leds.
 
