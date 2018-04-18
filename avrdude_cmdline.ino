@@ -8,8 +8,8 @@
 // Tools - Flash Size - 1M(512K SPIFFS)   -> this worked in my wemos D1 mini lite and my nodeMCU. any value > 0 for SPIFFS should be ok
 
 // enter your router SSID and password
-const char * ssid = "NETGEAR84";
-const char * password = "rb76543aaa789&*()cvbn";
+const char * ssid = "your_SSId";
+const char * password = "your_password";
 
 #define DATA_PIN D5              // this is the pin that you connect to the LED data line. you can change it here to use another GPIO pin
                             // you might need a level shifter since the esp is 3.3 volts and the LED is 5 volts, but sometimes the lower
